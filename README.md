@@ -1,0 +1,1 @@
+The application is written using Java SE. Netbeans IDE has been used for coding, compiling and building the application.
